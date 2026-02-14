@@ -168,5 +168,3 @@ This project was designed as a **real-world, decision-driven analytics case stud
   🔗 <a href="https://www.linkedin.com/in/ayush-srivastava-2b6904262/">LinkedIn</a>
 </p>
 
-
-#### Status: Seeking Data Analyst / Business Intelligence Roles.
