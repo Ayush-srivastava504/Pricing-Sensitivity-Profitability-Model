@@ -158,12 +158,15 @@ Leadership can now ask:
 > “Where are we destroying value?”
 
 ---
+## **Author**
 
-**Connect & Collaborate:**
+This project was designed as a **real-world, decision-driven analytics case study**, focusing on how businesses actually use dashboards—not just how they look.
 
-LinkedIn: [https://www.linkedin.com/in/ayush-srivastava-2b6904262/]
-
-Portfolio: []
+<p align="center">
+  <b>Built by Ayush Srivastava (Data Analyst)</b><br>
+  ayushwww4@email.com &nbsp;|&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/ayush-srivastava-2b6904262/">LinkedIn</a>
+</p>
 
 
 #### Status: Seeking Data Analyst / Business Intelligence Roles.
