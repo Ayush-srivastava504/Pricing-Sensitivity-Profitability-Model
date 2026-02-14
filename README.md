@@ -99,11 +99,6 @@ A dynamic discount model revealed:
 * Margin resilience varies significantly across product lines.
 
 This enables strategic discount planning rather than reactive promotions.
-Perfect — you want it sharp, clear, question → answer style.
-This is much better for portfolio impact.
-
-Here’s the clean version you should add:
-
 ---
 
 ### 5. Pricing Sensitivity Simulation
