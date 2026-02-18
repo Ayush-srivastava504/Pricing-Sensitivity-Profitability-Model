@@ -1,5 +1,14 @@
 # Pricing Sensitivity & Retail Profitability Model
 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Analytics Model](https://img.shields.io/badge/Model-Pricing%20Sensitivity-blueviolet)]()
+[![Profit Optimization](https://img.shields.io/badge/Focus-Profit%20Maximization-success)]()
+[![Data Analysis](https://img.shields.io/badge/Analysis-Pandas%20%7C%20NumPy-orange)]()
+[![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red)]()
+[![Business Impact](https://img.shields.io/badge/Outcome-Decision%20Support-brightgreen)]()
+
+
 ### *Revenue is Vanity. Profit is Sanity.*
 
 ---
